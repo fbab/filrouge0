@@ -1,1 +1,2 @@
+# to force Heroku to consider this app as a Java (and not as a Node.js)
 package.json
